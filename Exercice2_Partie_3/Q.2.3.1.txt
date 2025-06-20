@@ -1,4 +1,0 @@
-Systèmes de fichiers actuellement montés:
--ext4 sur la partition /dev/mapper/cp--vg-root
--ext2 sur la partition /dev/md0p1
--swap sur la partition /dev/mapper/cp3--vg-swap_1

@@ -1,1 +1,0 @@
-Les types de communications autorisées : SSH en TCP sur le port par défaut (22)
