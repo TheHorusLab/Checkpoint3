@@ -1,0 +1,1 @@
+Les types de communications interdits sont toutes celles qui ne sont pas déjà établie.
