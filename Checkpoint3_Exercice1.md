@@ -21,7 +21,8 @@ Partie 2
   
   
 Q.1.2.1  
-  
+![reponse_1_2_1](https://github.com/user-attachments/assets/a1df1946-a7c3-4e50-94bf-0aa626990a38)  
+
 Q.1.2.2  
   
 Q.1.2.3  
