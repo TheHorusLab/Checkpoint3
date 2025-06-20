@@ -1,1 +1,0 @@
-Ils utilisent type de système de stockage LVM.
